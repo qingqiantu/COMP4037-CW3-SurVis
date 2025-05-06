@@ -1,0 +1,187 @@
+[33m6c232b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mmaster[m[33m)[m Move js and data folders to root for GitHub Pages
+[33m387b348[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update index.html
+[33m6e816f0[m Delete js
+[33mc5088bf[m Update index.html
+[33me47d0b3[m Create js
+[33m42dd59f[m Rename src/index.html to index.html
+[33m42cd0f5[m[33m ([m[1;31morigin/master[m[33m)[m Update index.html
+[33m7307594[m Delete deploy.yml
+[33m93b5135[m Add files via upload
+[33md7917d1[m Update deploy.yml
+[33maa1968c[m Delete index.html
+[33m881ffe2[m Add files via upload
+[33madddca3[m Add files via upload
+[33m2e0cbe5[m Update index.html
+[33m048c9b9[m Delete index.html
+[33m58170d9[m Update index.html
+[33m88598a8[m Delete README.md
+[33m478ca6c[m Delete index
+[33me009acf[m Add files via upload
+[33m9092de1[m index.html
+[33m53e665b[m Update references.bib
+[33mc45f473[m Update bib.js
+[33m3e75ecc[m Update bib.js
+[33m542cbd4[m Update bib.js
+[33mf33c8c9[m Update properties.js
+[33me8b65ba[m Update about.html
+[33m67665ed[m Update index.html
+[33m156a6bf[m Add files via upload
+[33m027d5e3[m Update bib.js
+[33m36d3b98[m Update index.html
+[33m45afdb3[m updated electron properties
+[33m93fdbdd[m Update package-lock.json
+[33m77d617e[m Merge pull request #36 from fabian-beck/dependabot/npm_and_yarn/electron/electron-13.6.6
+[33m50cb301[m Merge pull request #37 from fabian-beck/dependabot/npm_and_yarn/electron/minimist-1.2.6
+[33md91812e[m Bump minimist from 1.2.5 to 1.2.6 in /electron
+[33m79e28c3[m Bump electron from 11.5.0 to 13.6.6 in /electron
+[33m0f1b8fa[m Update README.md
+[33mc3b3589[m Merge pull request #34 from fabian-beck/dependabot/npm_and_yarn/electron/electron-11.5.0
+[33mf8ea2d9[m Bump electron from 9.4.0 to 11.5.0 in /electron
+[33m81366ef[m Merge pull request #33 from fabian-beck/dependabot/npm_and_yarn/electron/normalize-url-4.5.1
+[33m5aa7f78[m link to another SurVis instance added
+[33me5666dc[m Bump normalize-url from 4.5.0 to 4.5.1 in /electron
+[33m21b8be1[m Merge pull request #32 from fabian-beck/dependabot/npm_and_yarn/electron/lodash-4.17.21
+[33m7a2d728[m Bump lodash from 4.17.19 to 4.17.21 in /electron
+[33md532456[m Merge branch 'dependabot/npm_and_yarn/electron/ini-1.3.8'
+[33mc0f811e[m Bump electron from 7.2.4 to 9.4.0 in /electron
+[33m9f44cab[m Bump ini from 1.3.5 to 1.3.8 in /electron
+[33m126889d[m Fixed: improved error reporting when loading/parsing of bib file failed (electron)
+[33m453b933[m Improved data loading from CrossRef: better checks and notifications
+[33mba8d74d[m removed field "abstract" from list of expected bib fields
+[33m2e5c6cb[m Improved error reporting when loading/parsing of bib file failed (electron)
+[33m5c3e557[m removed unnecessary file
+[33m95d6e9a[m extracted warnings module
+[33m7db1aac[m removed unnecessary lib files
+[33mb1e7914[m fixed some css issues and removed unnecessary style files
+[33md848c7f[m updated libs and refactored grid layout
+[33ma65af6a[m removed require.js completely
+[33m098d6ae[m refactored other modules to remove require.js
+[33m9d37b51[m refactored selectors module to remove require.js
+[33mb6e9e04[m refactored bib module to remove require.js
+[33m002e8e1[m refactored util methods
+[33m5adc5ad[m Merge pull request #26 from fabian-beck/dependabot/npm_and_yarn/electron/lodash-4.17.19
+[33m90c4f86[m Merge pull request #25 from fabian-beck/dependabot/npm_and_yarn/electron/electron-7.2.4
+[33mf885f24[m Bump lodash from 4.17.15 to 4.17.19 in /electron
+[33m9f8508b[m Bump electron from 7.1.10 to 7.2.4 in /electron
+[33mf93193a[m loading missing fields (fix) from CrossRef instead of DBLP
+[33mc26f64e[m discerning error notifications from regular notifications
+[33me627d0a[m load missing bibtex fields from DBLP as quick fix
+[33mfe50f26[m auto-detect field type 'date' in added bibtex fields
+[33m48af7b6[m less space-consuming header (electron)
+[33m64da1c9[m auto-set number of tags parameter for tag clouds (electron)
+[33ma4dd6bd[m auto detect series and publisher fields when editing bibtex
+[33m0816771[m automatically derive keyword categories from provided keywords (electron mode)
+[33ma882666[m updated CodeMirror version and removed unused plugin
+[33m2925237[m update entry div when new field is added to bibtex
+[33mcd342de[m removed outdated citeulike support
+[33m460b307[m auto-detect url as added field
+[33m394b56f[m improved dialog layout
+[33mf5a5901[m replacing browser alerts by notifications
+[33m4e99034[m made doi expected field for proceedings papers and journal articles
+[33m020fba3[m Merge branch 'electron'
+[33mc41b005[m Merge branch 'electron'
+[33m23d3b83[m fix: replaced broken prompt for added unknown bib fields by notification
+[33mfed096f[m improved layout of notifications
+[33mb4faf82[m save file on ctrl + s
+[33md40c179[m save file notifications (and some CSS refactorings)
+[33m50937ba[m fix: save all entries also if selection is currently filtered
+[33mb3e1b61[m fix: electron install instructions
+[33m7130a03[m fix: add entries button visible in electron
+[33mb7de94a[m adapted rename dialog to work in electron
+[33m80f029a[m moved SurVis logo into styles directory
+[33m8ef220e[m instructions to package electron app
+[33me578718[m open file dialog for electron app
+[33ma7e7768[m Merge branch 'master' into electron
+[33mae69c0d[m fixed error in sample bib file
+[33m17b11f9[m minimal adaptions to run SurVis as an electron app
+[33m57a0677[m allowing semicolon as an alternative splitter for keyword strings
+[33m74e4695[m restored old sample bib file
+[33meba833b[m Merge pull request #17 from fabian-beck/create-thumbnails
+[33mfe978fd[m Merge pull request #18 from fabian-beck/parse-comments
+[33m6f0fb99[m skips BibTeX comments.
+[33m8a4f017[m disables thumbnail creation by default.
+[33m6aa6dcf[m makes thumbnail creation optional.
+[33m173cbb6[m adds thumbnail generation.
+[33mef541a9[m Removed outdated link from list of SurVis instances
+[33m9758e2c[m Merge pull request #15 from snie2012/patch-3
+[33m37781ab[m Update README.md
+[33m351b60f[m Adding option of video
+[33m01b7d8a[m Merge pull request #14 from shivam-agarwal/bugfix13
+[33mf179306[m Bugfix13: adding updated jquery layout file to enable resizing the frames in UI.
+[33m2981d26[m Merge pull request #12 from shivam-agarwal/bugfix11
+[33m9c0fda0[m changing condition from == to === equality check
+[33m63b7aeb[m Adding logic to check for boundary case in capitalization warning
+[33mb025312[m Merge pull request #10 from fabian-beck/create-dirs
+[33md69b9ef[m adds directory checks to python file
+[33m687ad05[m Fixing broken link, closes #9
+[33m1498b62[m Added link to another SurVis instance
+[33mbd7f50f[m added link to another SurVis instance
+[33me6f53bf[m deleted broken link to the paper pdf
+[33mc36c3de[m Link to new SurVis literature collection added
+[33m4370019[m Updated email addresss
+[33m23958d0[m Merge pull request #5 from shivam-agarwal/test
+[33meee579b[m BUG FIX: #1: Definded secondary ordering of tags
+[33m61043e6[m Changing the name of downloaded bib file to be the same as in bib folder
+[33m15a4cba[m Updated contact information
+[33m5c6ef94[m Updated list of SurVis instances
+[33meaa3ba2[m added feature to quickly add another value to a BibTeX entry
+[33m1dd5a40[m rename keyword feature added to edit mode
+[33m078d4b3[m expected fields warning: added Bachelor's thesis
+[33m9f39769[m reduced the number of mandatory bib fields
+[33m7d2deb1[m introduced warning tag cloud
+[33meb64d10[m bug fix: enable add button when reopen add entries
+[33m5ddd548[m enable/disable and change text for add button in add entries dialog depending on parsed editor contents
+[33mac150ad[m bug fix: add entries that already exist
+[33mb0e131e[m only toggle selector when a single entry is added
+[33m289fce6[m bug fix: correctly compute warnings when adding multiple entries
+[33m906b09d[m removed info (parsed bibtex) for adding entries
+[33m0473025[m bugfix: empty warnings when adding multiple bib entries
+[33m25ec0db[m warning fix: for statement
+[33mbfba1ac[m bugfix: empty warnings when adding multiple bib entries
+[33m83db3f4[m started to refactor modularization
+[33m0ca89e9[m added fix for protected identifier warning
+[33m4b52cc6[m refactored and tested identifier capitalization warning; bugfix: identifiers with slash
+[33m961fd81[m improved (refactored and extended) title capitalization warning; added fix for this warning
+[33m1bb15aa[m fix feature added for missing field warnings
+[33m6f39393[m test case for missing field warning
+[33m181976f[m removed warnings from requireJS; new warning type: missing field
+[33m1f0f494[m added testing framework QUnit
+[33m86e57c8[m fixed some warnings
+[33md1d6c1d[m bugfix: parsing of names for unknown first name warnings
+[33m2459a1a[m new warning type: whole field capitalization protected; refactorings
+[33m5d796d7[m new warning type: unknown first name
+[33m4f9932d[m removed debug messages
+[33m36deffe[m new warning type: non-protected capitalization of indentiers
+[33mc93541f[m fix: update of warnings when editing bibtex
+[33m68c4688[m new type of warning: capitalization warning
+[33mdc8008f[m fix: compute warnings
+[33m87dd9c7[m fix: warning computation and selection
+[33m6d54021[m fix: encoding of title that are not links
+[33m0789248[m fix: parsing values of bibtex fields
+[33me6ac6c5[m fix: encoding of non-parsed author names
+[33mdcacb6e[m improvement: layout of warnings
+[33mc631dbe[m fixed: citation formatting of authors
+[33mbcaf0e6[m feature added: show citation
+[33m5908ed5[m fixed html encoding of en and em dash; fixed special charcter encodings in titles of entry boxes
+[33mbe3b12c[m auto-merge of authors and series tags ignoring character cases and non-alpha-numeric characters
+[33m9273770[m cleaned up creation of bars in timeline visulization
+[33m9760267[m improved error message when bib from local storage cannot be parsed
+[33m77c6b32[m improved selection of years with few publications in timeline
+[33m1ed6f91[m fix: search for parts of an ID
+[33m63fb7f9[m fix: search for key
+[33m203b749[m improved search similarity metric
+[33m4fc3a77[m link to preprint
+[33ma026232[m Linked latest release in readme
+[33m67e131d[m SurVis release 0.1.0
+[33md5532c8[m added screenshot to readme
+[33mc7dfead[m SurVis screenshot
+[33m07ac04d[m fixed link formatting
+[33m9b817a3[m add reference to TVCG paper and preview video
+[33m190b94d[m Update LICENSE
+[33mcdcc5df[m new SurVis database
+[33md2fc749[m Update README.md
+[33m318b78e[m Update README.md
+[33m43f8548[m Update README.md
+[33m83a28da[m Update README.md
+[33m9fe353e[m Update README.md
+[33m865049b[m Initial commit
