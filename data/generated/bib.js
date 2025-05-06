@@ -12,7 +12,7 @@ const generatedBibEntries = {
     "url": "https://ieeexplore.ieee.org/document/6269966",
     "volume": "31",
     "year": "2012",
-    "img": "data/generated/papers_img/Banerjee2012Coalition.png"
+    "preview": "data/generated/papers_img/Banerjee2012Coalition.png"
   },
   "Becker2021Achievement": {
     "author": "Becker, Ruben and Janota, Mikoláš and Marques-Silva, João",
@@ -25,7 +25,7 @@ const generatedBibEntries = {
     "type": "inproceedings",
     "url": "https://www.labunix.uqam.ca/~villemaire_r/Articles/sbrvKI21.pdf",
     "year": "2021",
-    "img": "data/generated/papers_img/Becker2021Achievement.png"
+    "preview": "data/generated/papers_img/Becker2021Achievement.png"
   },
   "DeTroyer2019TrueBiters": {
     "author": "De Troyer, Olga and Lindberg, Renny and Sajjadi, Pejman",
@@ -39,7 +39,7 @@ const generatedBibEntries = {
     "type": "article",
     "volume": "6",
     "year": "2019",
-    "img": "data/generated/papers_img/DeTroyer2019TrueBiters.png"
+    "preview": "data/generated/papers_img/DeTroyer2019TrueBiters.png"
   },
   "MayerEichberger2020QBFGames": {
     "author": "Mayer-Eichberger, Valentin and Saffidine, Abdallah",
@@ -51,7 +51,7 @@ const generatedBibEntries = {
     "type": "misc",
     "url": "https://arxiv.org/pdf/2005.05098",
     "year": "2020",
-    "img": "data/generated/papers_img/MayerEichberger2020QBFGames.png"
+    "preview": "data/generated/papers_img/MayerEichberger2020QBFGames.png"
   },
   "Schaefer2013LogicGame": {
     "author": "Schäfer, Alexander and Holz, Jan and Leonhardt, Tobias and Schroeder, Ulrik and Brauner, Patrick and Ziefle, Martina",
@@ -65,7 +65,7 @@ const generatedBibEntries = {
     "type": "article",
     "volume": "23",
     "year": "2013",
-    "img": "data/generated/papers_img/Schaefer2013LogicGame.png"
+    "preview": "data/generated/papers_img/Schaefer2013LogicGame.png"
   },
   "Scholl2018DQBF": {
     "author": "Scholl, Christoph and Wimmer, Ralf",
@@ -78,7 +78,7 @@ const generatedBibEntries = {
     "type": "inproceedings",
     "url": "https://dl.acm.org/doi/10.1007/978-3-319-94144-8_1",
     "year": "2018",
-    "img": "data/generated/papers_img/Scholl2018DQBF.png"
+    "preview": "data/generated/papers_img/Scholl2018DQBF.png"
   },
   "Schuppan2018Cores": {
     "author": "Schuppan, Viktor",
@@ -91,7 +91,7 @@ const generatedBibEntries = {
     "type": "inproceedings",
     "url": "https://doi.org/10.1109/ICTAI.2018.00023",
     "year": "2018",
-    "img": "data/generated/papers_img/Schuppan2018Cores.png"
+    "preview": "data/generated/papers_img/Schuppan2018Cores.png"
   },
   "Shaik2023SQval": {
     "author": "Shaik, Irfansha and Heisinger, Maximilian and Seidl, Martina and van de Pol, Jaco",
@@ -105,7 +105,7 @@ const generatedBibEntries = {
     "type": "inproceedings",
     "volume": "271",
     "year": "2023",
-    "img": "data/generated/papers_img/Shaik2023SQval.png"
+    "preview": "data/generated/papers_img/Shaik2023SQval.png"
   },
   "Shukla2019QBF": {
     "author": "Shukla, Ankit and Drechsler, Rolf",
@@ -118,7 +118,7 @@ const generatedBibEntries = {
     "type": "inproceedings",
     "url": "https://ieeexplore.ieee.org/document/8995437",
     "year": "2019",
-    "img": "data/generated/papers_img/Shukla2019QBF.png"
+    "preview": "data/generated/papers_img/Shukla2019QBF.png"
   },
   "Weng2010PacmanLogic": {
     "author": "Weng, Jui-Feng and Tseng, Shian-Shyong and Lee, Tsung-Ju",
@@ -132,6 +132,6 @@ const generatedBibEntries = {
     "type": "article",
     "volume": "3",
     "year": "2010",
-    "img": "data/generated/papers_img/Weng2010PacmanLogic.png"
+    "preview": "data/generated/papers_img/Weng2010PacmanLogic.png"
   }
 };
